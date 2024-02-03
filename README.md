@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on educational game design<br>🤝 I’m looking for help to create my portfolio<br>🌱 I’m currently learning **Javascript, Typescript**<br>⚡ Fun fact: I am a geography teathcer
+👯 I’m looking to collaborate on educational game design<br>🤝 I’m looking for help to create my portfolio<br>🌱 I’m currently learning **Javascript**<br>⚡ Fun fact: I am a geography teathcer
 
 
 ## 🌐 Socials:
