@@ -1,22 +1,52 @@
+<h2 align="left">Hi 👋! My name is Fábio Thierry and I'm a programmer.</h2>
 
+###
 
+<br clear="both">
+<h4 align="left"><br>👯 I’m looking to collaborate on educational game design<br>🤝 I’m looking for help to create my portfolio<br>🌱 I’m currently learning Javascript and Typescript<br>⚡ Fun fact: I am a geography teathcer</h4>
 
+###
 
-# 💫 About Me:
-👯 I’m looking to collaborate on educational game design<br>🤝 I’m looking for help to create my portfolio<br>🌱 I’m currently learning **Javascript** and **Typescript**<br>⚡ Fun fact: I am a geography teathcer
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioThierry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FabioThierry&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioThierry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fábio-thierry) 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
+###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FabioThierry&theme=vue-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioThierry&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsOWl6N2poOW4waDRvMWRkZWJhd3d6ZnR3NjM4aHE1OWcwcnJ2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RoNmZIBPoT54c8rYZt/giphy.gif"  />
 
----
-[![](https://visitcount.itsvg.in/api?id=FabioThierry&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="center">
+
+<img align="left" src="https://profile-counter.glitch.me/FabioThierry/count.svg?"  />
+
+###
