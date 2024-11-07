@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/fabio-thierry">
+  <a href="https://linkedin.com/in/fabio-thierry" target="_blank">
   <img href="https://www.linkedin.com/in/f%C3%A1bio-thierry" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
